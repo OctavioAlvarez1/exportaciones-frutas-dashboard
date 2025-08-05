@@ -63,7 +63,7 @@ Esto permite mantener integridad referencial y facilitar los análisis por dimen
 
 📷 **Captura del Dashboard Final:**
 
-![Dashboard Tableau](Imágenes/Dashboard.png)
+<img src="Imágenes/Dashboard.png" alt="Vista del dashboard" width="600"/>
 
 ---
 
