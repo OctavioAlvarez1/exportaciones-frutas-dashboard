@@ -63,7 +63,7 @@ Esto permite mantener integridad referencial y facilitar los análisis por dimen
 
 📷 **Captura del Dashboard Final:**
 
-<img src="Imágenes/Dashboard.png" alt="Vista del dashboard" width="600"/>
+<img src="Imagenes/Dashboard.png" alt="Vista del dashboard" width="600"/>
 
 ---
 
