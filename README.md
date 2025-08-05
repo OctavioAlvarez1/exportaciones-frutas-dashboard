@@ -94,12 +94,6 @@ Esto permite mantener integridad referencial y facilitar los análisis por dimen
 
 ---
 
-## 🚀 Acceso al Dashboard
-
-🔗 [**Ver en Tableau Public**](#) *(Reemplazar con el enlace cuando esté publicado)*
-
----
-
 ## 📂 Estructura del Repositorio
 
 
